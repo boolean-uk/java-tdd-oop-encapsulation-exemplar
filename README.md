@@ -93,10 +93,9 @@ Note that there is no "one correct way" to complete this exercise, this is an op
 Additionally, don't worry about creating complex logic. The focus of this exercise is at an encapsulation level, we don't need to see a method that can actually recharge a lithium battery!
 
 ```
-As a parent,
-I want to buy my son a remote control toy car from your shop.
+I have a remote controlled car:
 
-I want to be able to choose the colour of the car.
+I want to be able to decide on the colour of the car.
 
 I want to be able to choose between rechargable and disposable batteries.
 
@@ -108,11 +107,9 @@ I want to be able to move the car forward and backward a specific distance.
 
 I want to be able to stop the car from moving.
 
-I want to be able to turn left and right.
+I want to be able to turn the car left and right.
 
-I want to be able to replace the battery if it breaks.
-
-I want to be able to return the car for a refund if it breaks.
+I want to be able to replace the battery with either kind as needed.
 ```
 
 ## Next steps
